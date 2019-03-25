@@ -1,0 +1,7 @@
+#código--nombre
+1 *Bogota
+2 *New York
+3 *Los Angeles
+4 *Cali
+5 *Cartagena
+0

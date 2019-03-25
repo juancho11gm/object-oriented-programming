@@ -1,0 +1,26 @@
+#AEROLINEA
+#código------nombre-----------------cuentaBanco
+100 *American Airlines *01-2004444
+#vuelos planeados:
+#código---númeroVuelo—-díaSemana—-horaSalida—-horaLlegada—-origen--destino
+10 *101 *lunes *10:30 *19:45 *1 *2
+20 *102 *miercoles *10:30 *19:45 *1 *2
+30 *103 *viernes *8:30 *11:45 *2 *1
+0
+#AEROLINEA
+#código------nombre-----------------cuentaBanco
+200 *Avianca *02-234567890
+#vuelos planeados:
+#código---númeroVuelo—-díaSemana—-horaSalida—-horaLlegada—-origen--destino
+40 *301 *martes *10:30 *11:45 *1 *4
+50 *302 *jueves *12:30 *22:45 *1 *3
+0
+#AEROLINEA
+#código------nombre-----------------cuentaBanco
+300 *Delta Airlines *08-987653456
+#vuelos planeados:
+#código---númeroVuelo—-díaSemana—-horaSalida—-horaLlegada—-origen--destino
+60 *701 *sabado *9:30 *17:45 *1 *2
+70 *702 *domingo *10:30 *19:45 *2 *3
+0
+#FIN
